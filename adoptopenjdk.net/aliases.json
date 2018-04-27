@@ -1,0 +1,8 @@
+[
+  { "from": "infrastructure", "to": [
+    "george.adams@uk.ibm.com"
+  ] },
+  { "from": "gdams", "to": [
+    "george.adams@uk.ibm.com"
+  ] }
+]
