@@ -1,6 +1,7 @@
 [
   { "from": "infrastructure", "to": [
-    "george.adams@uk.ibm.com"
+    "george.adams@uk.ibm.com",
+    "adoptopenjdk@gmail.com"
   ] },
   { "from": "gdams", "to": [
     "george.adams@uk.ibm.com"
