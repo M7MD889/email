@@ -5,5 +5,8 @@
   ] },
   { "from": "gdams", "to": [
     "george.adams@uk.ibm.com"
+  ] },
+  { "from": "reinhapa", "to": [
+    "patrick@reini.net"
   ] }
 ]
